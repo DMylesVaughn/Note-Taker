@@ -7,7 +7,7 @@ Module 11 Assignment for the Bootcamp is to debug a Note Taker.
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
-* [Screenshots] (#Screenshots)
+* [Screenshots](#Screenshots)
 * [Code Location](#Code)
 * [Questions](#Contact-Information)
 
